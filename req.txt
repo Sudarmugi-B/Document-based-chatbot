@@ -1,0 +1,4 @@
+ollama
+streamlit
+PyMuPDF
+python-docx
